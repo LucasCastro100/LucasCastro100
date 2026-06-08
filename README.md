@@ -13,7 +13,6 @@ Sou um desenvolvedor focado em criar aplicações web escaláveis e sistemas de 
 **Automação & Scripting:** n8n, Python
 **Frontend/JS:** Next.js (App Router), TypeScript, Tailwind CSS, Shadcn/UI, Biome, Zod
 **Backend/PHP:** Laravel, Livewire
-**Ferramentas:** pnpm, Linux (Zorin OS)
 
 ---
 
