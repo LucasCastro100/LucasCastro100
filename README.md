@@ -12,7 +12,7 @@ Full-Stack Developer | Automation
 
 Ha 8 anos atuando no desenvolvimento web. Comecei criando sites institucionais com HTML, CSS, JS e PHP, e hoje sou focado em JavaScript com Next.js e Node.js, alem de automacoes com Python.
 
-Atualmente trabalho com tecnologia educacional, atuando com professores na area de pensamento computacional para criancas de 3 a 16 anos. Paralelamente, atuo como desenvolvedor freelancer e mantenho projetos proprios como o PNL Academy (Laravel + Livewire) e um canal de cursos.
+Atualmente trabalho com tecnologia educacional, atuando com professores na area de pensamento computacional para criancas de 3 a 16 anos. Paralelamente, atuo como desenvolvedor freelancer na criação de sistemas para web e mobile
 
 ---
 
