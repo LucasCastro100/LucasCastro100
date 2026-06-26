@@ -23,7 +23,7 @@ Atualmente trabalho com tecnologia educacional, atuando com professores na area 
 -   **Landing Pages PHP** — Sites institucionais com PHP
 -   **Sistema de Notas (TBR)** — Gestao academica com Laravel e Livewire
 -   **All-Agend** — Sistema de agendamento flexivel com NestJS
--   **DataFi** — Sistema web para geracao de relatorios e controle de dados de Meta e Google Ads ([datafi.com.br](https://datafi.com.br/))
+-   **DataFi** — Sistema de relatorios e controle de dados de Meta e Google Ads
 
 ---
 
