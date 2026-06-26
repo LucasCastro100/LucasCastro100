@@ -1,6 +1,8 @@
 ### Ola, eu sou o Lucas Oliveira
 
-Full-Stack Developer | Automation
+Full-Stack Developer | Automation & Backend Specialist
+
+*Criando aplicacoes web escalaveis e sistemas de automacao inteligentes.*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-38993a202/)
 [![Site](https://img.shields.io/badge/-Site-2f2f2f?style=flat-square&logo=google-chrome&logoColor=white)](https://ideias.dev.br/)
@@ -12,7 +14,7 @@ Full-Stack Developer | Automation
 
 Ha 8 anos atuando no desenvolvimento web. Comecei criando sites institucionais com HTML, CSS, JS e PHP, e hoje sou focado em JavaScript com Next.js e Node.js, alem de automacoes com Python.
 
-Atualmente trabalho com tecnologia educacional, atuando com professores na area de pensamento computacional para criancas de 3 a 16 anos. Paralelamente, atuo como desenvolvedor freelancer na criação de sistemas para web e mobile
+Atualmente trabalho com tecnologia educacional, atuando com professores na area de pensamento computacional para criancas de 3 a 16 anos. Paralelamente, atuo como desenvolvedor freelancer e mantenho projetos proprios como o PNL Academy (Laravel + Livewire) e um canal de cursos.
 
 ---
 
@@ -23,7 +25,7 @@ Atualmente trabalho com tecnologia educacional, atuando com professores na area 
 -   **Landing Pages PHP** — Sites institucionais com PHP
 -   **Sistema de Notas (TBR)** — Gestao academica com Laravel e Livewire
 -   **All-Agend** — Sistema de agendamento flexivel com NestJS
--   **DataFi** — Metricas de anuncios com Next.js e TypeScript
+-   **DataFi** — Sistema web para geracao de relatorios e controle de dados de Meta e Google Ads ([datafi.com.br](https://datafi.com.br/))
 
 ---
 
