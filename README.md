@@ -1,8 +1,6 @@
 ### Ola, eu sou o Lucas Oliveira
 
-Full-Stack Developer | Automation & Backend Specialist
-
-*Criando aplicacoes web escalaveis e sistemas de automacao inteligentes.*
+Full-Stack Developer | Automation
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-38993a202/)
 [![Site](https://img.shields.io/badge/-Site-2f2f2f?style=flat-square&logo=google-chrome&logoColor=white)](https://ideias.dev.br/)
