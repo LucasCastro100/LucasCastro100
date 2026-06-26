@@ -6,10 +6,8 @@ Full-Stack Developer | Automation
 
 **GitHub**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LucasCastro100&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCastro100&layout=compact&langs_count=8&theme=graywhite&hide_title=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasCastro100&theme=github-light&hide_title=true&bg_color=transparent&point=000&line=000&color=000)
+![Stats](https://github-readme-stats.vercel.app/api?username=LucasCastro100&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCastro100&layout=compact&langs_count=8&theme=github_dark&hide_title=true)
 
 ---
 
@@ -20,7 +18,6 @@ Full-Stack Developer | Automation
 | Automation | n8n, Python |
 | Frontend | Next.js, TypeScript, Tailwind CSS, Shadcn/ui |
 | Backend | Laravel, Livewire, NestJS |
-| Tools | Biome, Zod |
 
 ---
 
@@ -41,4 +38,4 @@ Full-Stack Developer | Automation
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=LucasCastro100&color=gray&style=flat-square&label=visitors)
+![Visitors](https://komarev.com/ghpvc/?username=LucasCastro100&color=blueviolet&style=flat-square&label=visitors)
