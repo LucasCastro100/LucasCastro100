@@ -10,7 +10,9 @@ Full-Stack Developer | Automation | Educational Technology
 
 ### Sobre Mim
 
-Há **8+ anos** desenvolvendo para a web, evoluí da criação de landing pages em HTML, CSS e PHP para a construção de arquiteturas modernas e escaláveis. Hoje são **18 repositórios públicos e privados** no GitHub, com **~213 mil linhas de código próprias**.
+Há **8+ anos** desenvolvendo para a web: evoluí da criação de landing pages em HTML, CSS e PHP para a construção de arquiteturas modernas e escaláveis.
+
+No caminho já são **18 repositórios** no GitHub (**15 públicos**), **~213 mil linhas** de código próprias e **2.125 arquivos** de projeto.
 
 Hoje, me divido entre o desenvolvimento de software e a tecnologia educacional:
 
@@ -23,16 +25,26 @@ Hoje, me divido entre o desenvolvimento de software e a tecnologia educacional:
 <details>
 <summary><b>📊 Em números</b> (clique para ver)</summary>
 
+**Geral**
+
 | Métrica | Valor |
 |---|---|
-| **Código próprio** | ~213.000 linhas em 2.125 arquivos |
-| **Repositórios na conta** | **18** (15 públicos + 3 privados) |
-| **Maior projeto** | 22 sistemas de gestão numa única plataforma Laravel/Livewire |
-| **Banco de dados (Ideias.dev.br)** | 75 tabelas · 90 rotas · 86 componentes Livewire · ~39.500 linhas |
-| **Marketplace Clubset** | 68 rotas · 35 tabelas · 38 páginas React · 2FA + Passkeys + Stripe |
-| **Control School** | 19 endpoints de API · 119 arquivos TypeScript no front |
-| **Plataforma EAD (Neuro)** | 113 rotas · 26 tabelas · 3 painéis · ~22.000 linhas |
-| **Python** | 96 scripts de automação · 7 subprojetos |
+| Repositórios no GitHub | **18** (15 públicos + 3 privados) |
+| Código próprio | **~213.000** linhas |
+| Arquivos de projeto | **2.125** |
+| Tempo de atuação | **8+ anos** |
+
+**Por projeto**
+
+| Projeto | Métricas |
+|---|---|
+| **Ideias.dev.br** | 22 sistemas de gestão · 75 tabelas · 90 rotas · 86 componentes Livewire · 66 models · ~39.500 linhas |
+| **Clubset** | 68 rotas · 35 tabelas · 48 migrations · 38 páginas React · 2FA + Passkeys + Stripe · ~74.700 linhas |
+| **Neuro Comunicação** | 113 rotas · 26 tabelas · 3 painéis · ~22.000 linhas |
+| **Control School** | 19 endpoints de API · 15 models · 119 arquivos TypeScript/TSX |
+| **OdontoPro** | 9 models Prisma · 7 páginas · ~20.500 linhas |
+| **Calendário Unificado** | 15 rotas de API · 11 tabelas |
+| **Python (total)** | 96 scripts · ~2.870 linhas · 7 subprojetos |
 
 </details>
 
@@ -53,7 +65,6 @@ Hoje, me divido entre o desenvolvimento de software e a tecnologia educacional:
 | [**Base Next.js**](https://github.com/LucasCastro100/base-nextjs) | Template base moderno | Next.js, shadcn/ui |
 | [**Cola Componente**](https://github.com/LucasCastro100/cola-componente) | Referência de componentes | Next.js, Tailwind |
 | [**register-students**](https://github.com/LucasCastro100/register-students) | Automação de cadastro de alunos com cartões em PDF | Python, Selenium, pandas |
-| **pyton-projects** 🔒 | Automações, análise de dados e web/desktop | Python, Streamlit, Pandas, Plotly |
 | **RC Studio** 🔒 | Site institucional de produção musical | WordPress, Elementor |
 | [**LinkedIn Toolkit**](https://github.com/LucasCastro100/linkedin) | Guias e checklists para otimizar o perfil | Markdown |
 

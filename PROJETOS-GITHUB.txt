@@ -138,15 +138,7 @@ PYTON/  (Python)
                 manipulação de arquivos (CSV), banco de dados, decorators, módulos e PIP,
                 automações e análise de dados. Didático, organizado por tópico.
 
-17) pyton-projects
-    Link:        https://github.com/LucasCastro100/pyton-projects
-    Tecnologia:  Python 3 | Pandas | Streamlit | Plotly | Selenium | Requests | FPDF | python-dotenv | PySide6
-    Descrição:   Projetos e scripts em Python: automações com Selenium (ICM/EBD),
-                dashboards Streamlit (análise de livros e de peças automotivas com
-                PCA/CAP/BAP), geração de recibos em PDF (FPDF), consumo de APIs (Requests),
-                scripts de caminhos/arquivos, experimentos com Flask e GUI PySide6.
-
-18) register-students  (Python)
+17) register-students  (Python)
     Link:        https://github.com/LucasCastro100/register-students
     Tecnologia:  Python 3 | Selenium | pandas | python-dotenv | ThreadPoolExecutor | Chrome
     Descrição:   Automação de cadastro de alunos: lê uma planilha Excel com os dados,
@@ -158,24 +150,24 @@ PYTON/  (Python)
 OUTROS REPOSITÓRIOS DA CONTA
 --------------------------------------------------------------------------------
 
-19) LucasCastro100
+18) LucasCastro100
     Link:        https://github.com/LucasCastro100/LucasCastro100
     Tecnologia:  Markdown
     Descrição:   Repositório de perfil do GitHub — README exibido na página inicial do
                 perfil.
 
-20) control-school
+19) control-school
     Link:        https://github.com/LucasCastro100/control-school
     Tecnologia:  TypeScript
     Descrição:   Repositório agregador original do Control School (controle de escolas);
                 hoje dividido entre control-school-back e control-school-front.
 
-21) all-agend
+20) all-agend
     Link:        https://github.com/LucasCastro100/all-agend
     Tecnologia:  TypeScript
     Descrição:   Projeto pessoal focado em agendamento.
 
-22) java_script
+21) java_script
     Link:        https://github.com/LucasCastro100/java_script
     Tecnologia:  TypeScript / JavaScript
     Descrição:   Exercícios e estudos de JavaScript.
