@@ -10,9 +10,13 @@ Full-Stack Developer | Automation | Educational Technology
 
 ### Sobre Mim
 
-Há 8 anos atuando no desenvolvimento web. Comecei criando sites institucionais com HTML, CSS, JS e PHP, e hoje sou focado em **JavaScript com Next.js e Node.js**, além de automações com Python.
+Há **8 anos** construindo para a web. Comecei em landing pages com HTML, CSS e PHP e cresci junto com o ecossistema JavaScript — hoje meu dia a dia é **Next.js, TypeScript e Node.js** no front e no back, **Laravel** em aplicações maiores e **Python** para automação.
 
-Atualmente trabalho com tecnologia educacional, atuando com professores na área de pensamento computacional para crianças de 3 a 16 anos. Paralelamente, atuo como desenvolvedor freelancer e mantenho projetos próprios.
+O que já saiu do meu teclado: **~213 mil linhas de código próprias** em **22 repositórios** — de uma plataforma com **22 sistemas de gestão isolados** dentro de um único Laravel/Livewire (75 tabelas, 90 rotas) a SaaS com Stripe, 2FA e passkeys, APIs REST com frontend em Next.js 16, e automações com Selenium que executam em paralelo.
+
+Na área de **tecnologia educacional**, atuo com professores no ensino de pensamento computacional para crianças de 3 a 16 anos — o que me treinou a explicar o complexo de forma simples.
+
+Em paralelo, sou desenvolvedor freelancer e mantenho produtos próprios.
 
 <details>
 <summary><b>📊 Em números</b> (clique para ver)</summary>
@@ -20,12 +24,12 @@ Atualmente trabalho com tecnologia educacional, atuando com professores na área
 | Métrica | Valor |
 |---|---|
 | **Código próprio** | ~213.000 linhas em 2.125 arquivos |
-| **Repositórios públicos** | 14 |
+| **Repositórios na conta** | 22 (14 públicos + 8 privados) |
 | **Maior projeto** | 22 sistemas de gestão numa única plataforma Laravel/Livewire |
 | **Banco de dados (Ideias.dev.br)** | 75 tabelas · 90 rotas · 86 componentes Livewire · ~39.500 linhas |
 | **Marketplace Clubset** | 68 rotas · 35 tabelas · 38 páginas React · 2FA + Passkeys + Stripe |
 | **Control School** | 19 endpoints de API · 119 arquivos TypeScript no front |
-| **Plataforma EAD (Neuro)** | 113 rotas · 26 tabelas · 3 painéis (admin/professor/aluno) |
+| **Plataforma EAD (Neuro)** | 113 rotas · 26 tabelas · 3 painéis · 113 rotas |
 | **Python** | 96 scripts de automação · 7 subprojetos |
 
 </details>

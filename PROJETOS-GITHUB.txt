@@ -12,11 +12,13 @@ LARAVEL/  (cada projeto em seu próprio repositório)
    Link:        https://github.com/LucasCastro100/ideias_dev
    Tecnologia:  Laravel 12 | Livewire 3 | Laravel Jetstream | Tailwind CSS | Chart.js | DomPDF | SQLite
    Descrição:   Plataforma multi-sistema Ideias.dev.br: um único projeto Laravel que
-                hospeda 23 sistemas de gestão independentes (TBR, Financeiro, Clientes,
+                hospeda 22 sistemas de gestão independentes (TBR, Financeiro, Clientes,
                 Vagas, Escolar, Ordem de Serviço, Email Marketing, MMN, Advocacia,
                 Corridas, Rede Social, Nuvem, PDV, Restaurante, Pizzaria, Suporte, CMS,
-                Arquivos, Clínicas, ERP, Hospedagem, Marketplace, Loja Virtual), cada um
-                com rotas, tabelas e telas próprias, além de vitrine pública (/projetos).
+                Clínicas, ERP, Hospedagem, Marketplace, Loja Virtual), cada um com rotas,
+                tabelas e telas próprias, além de vitrine pública (/projetos).
+                Métricas reais: 75 tabelas | 90 rotas | 86 componentes Livewire |
+                66 models | ~39.500 linhas de código.
 
 2) calendario-unificado
    Link:        https://github.com/LucasCastro100/calendario-unificado
