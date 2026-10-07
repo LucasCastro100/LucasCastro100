@@ -10,13 +10,15 @@ Full-Stack Developer | Automation | Educational Technology
 
 ### Sobre Mim
 
-Há **8 anos** construindo para a web. Comecei em landing pages com HTML, CSS e PHP e cresci junto com o ecossistema JavaScript — hoje meu dia a dia é **Next.js, TypeScript e Node.js** no front e no back, **Laravel** em aplicações maiores e **Python** para automação.
+Há **8+ anos** desenvolvendo para a web, evoluí da criação de landing pages em HTML, CSS e PHP para a construção de arquiteturas modernas e escaláveis.
 
-O que já saiu do meu teclado: **~213 mil linhas de código próprias** em **22 repositórios** — de uma plataforma com **22 sistemas de gestão isolados** dentro de um único Laravel/Livewire (75 tabelas, 90 rotas) a SaaS com Stripe, 2FA e passkeys, APIs REST com frontend em Next.js 16, e automações com Selenium que executam em paralelo.
+Hoje, me divido entre o desenvolvimento de software e a tecnologia educacional:
 
-Na área de **tecnologia educacional**, atuo com professores no ensino de pensamento computacional para crianças de 3 a 16 anos — o que me treinou a explicar o complexo de forma simples.
+🚀 **Full-Stack Engineering:** No dia a dia, construo aplicações end-to-end com Next.js, TypeScript e Node.js. Em ecossistemas mais robustos, atuo com Laravel no backend e uso Python para automações e raspagem de dados.
 
-Em paralelo, sou desenvolvedor freelancer e mantenho produtos próprios.
+🎓 **Tecnologia Educacional:** Oriento professores no ensino de pensamento computacional para crianças e jovens (3 a 16 anos). Essa vivência refinou minha capacidade de desmistificar conceitos complexos e criar código limpo e intuitivo.
+
+💻 **Freelancer:** Disponível para projetos web, integrações de APIs e automações sob medida.
 
 <details>
 <summary><b>📊 Em números</b> (clique para ver)</summary>
@@ -24,12 +26,12 @@ Em paralelo, sou desenvolvedor freelancer e mantenho produtos próprios.
 | Métrica | Valor |
 |---|---|
 | **Código próprio** | ~213.000 linhas em 2.125 arquivos |
-| **Repositórios na conta** | 22 (14 públicos + 8 privados) |
+| **Repositórios na conta** | 21 (14 públicos + 7 privados) |
 | **Maior projeto** | 22 sistemas de gestão numa única plataforma Laravel/Livewire |
 | **Banco de dados (Ideias.dev.br)** | 75 tabelas · 90 rotas · 86 componentes Livewire · ~39.500 linhas |
 | **Marketplace Clubset** | 68 rotas · 35 tabelas · 38 páginas React · 2FA + Passkeys + Stripe |
 | **Control School** | 19 endpoints de API · 119 arquivos TypeScript no front |
-| **Plataforma EAD (Neuro)** | 113 rotas · 26 tabelas · 3 painéis · 113 rotas |
+| **Plataforma EAD (Neuro)** | 113 rotas · 26 tabelas · 3 painéis · ~22.000 linhas |
 | **Python** | 96 scripts de automação · 7 subprojetos |
 
 </details>
