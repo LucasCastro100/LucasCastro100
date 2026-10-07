@@ -10,15 +10,15 @@ Full-Stack Developer | Automation | Educational Technology
 
 ### Sobre Mim
 
-Há **8+ anos** desenvolvendo para a web, evoluí da criação de landing pages em HTML, CSS e PHP para a construção de arquiteturas modernas e escaláveis.
+Há **8+ anos** desenvolvendo para a web, evoluí da criação de landing pages em HTML, CSS e PHP para a construção de arquiteturas modernas e escaláveis. Hoje são **18 repositórios públicos e privados** no GitHub, com **~213 mil linhas de código próprias**.
 
 Hoje, me divido entre o desenvolvimento de software e a tecnologia educacional:
 
-🚀 **Full-Stack Engineering:** No dia a dia, construo aplicações end-to-end com Next.js, TypeScript e Node.js. Em ecossistemas mais robustos, atuo com Laravel no backend e uso Python para automações e raspagem de dados.
+**Full-Stack Engineering:** No dia a dia, construo aplicações end-to-end com Next.js, TypeScript e Node.js. Em ecossistemas mais robustos, atuo com Laravel no backend e uso Python para automações e raspagem de dados.
 
-🎓 **Tecnologia Educacional:** Oriento professores no ensino de pensamento computacional para crianças e jovens (3 a 16 anos). Essa vivência refinou minha capacidade de desmistificar conceitos complexos e criar código limpo e intuitivo.
+**Tecnologia Educacional:** Oriento professores no ensino de pensamento computacional para crianças e jovens (3 a 16 anos). Essa vivência refinou minha capacidade de desmistificar conceitos complexos e criar código limpo e intuitivo.
 
-💻 **Freelancer:** Disponível para projetos web, integrações de APIs e automações sob medida.
+**Freelancer:** Disponível para projetos web, integrações de APIs e automações sob medida.
 
 <details>
 <summary><b>📊 Em números</b> (clique para ver)</summary>
@@ -26,7 +26,7 @@ Hoje, me divido entre o desenvolvimento de software e a tecnologia educacional:
 | Métrica | Valor |
 |---|---|
 | **Código próprio** | ~213.000 linhas em 2.125 arquivos |
-| **Repositórios na conta** | 21 (14 públicos + 7 privados) |
+| **Repositórios na conta** | **18** (15 públicos + 3 privados) |
 | **Maior projeto** | 22 sistemas de gestão numa única plataforma Laravel/Livewire |
 | **Banco de dados (Ideias.dev.br)** | 75 tabelas · 90 rotas · 86 componentes Livewire · ~39.500 linhas |
 | **Marketplace Clubset** | 68 rotas · 35 tabelas · 38 páginas React · 2FA + Passkeys + Stripe |
@@ -44,7 +44,7 @@ Hoje, me divido entre o desenvolvimento de software e a tecnologia educacional:
 |---|---|---|
 | [**Ideias.dev.br**](https://github.com/LucasCastro100/ideias_dev) | Plataforma multi-sistema com 22 sistemas de gestão | Laravel 12, Livewire, Jetstream |
 | **Clubset** 🔒 | Marketplace de permuta para o mercado audiovisual | Laravel 13, React, Inertia, Stripe |
-| **Calendário Unificado** 🔒 | Calendário unificado com integração de agendas externas | Laravel 12, Next.js, FullCalendar |
+| [**Calendário Unificado**](https://github.com/LucasCastro100/calendario-unificado) | Calendário unificado com integração de agendas externas | Laravel 12, Next.js, FullCalendar |
 | [**Control School**](https://github.com/LucasCastro100/control-school-back) | Gestão multi-escolar (turmas, alunos, financeiro) | Laravel 13, Next.js 16, Sanctum |
 | [**OdontoPro**](https://github.com/LucasCastro100/odontopro) | SaaS para clínicas odontológicas | Next.js 16, Prisma, PostgreSQL |
 | **Neuro Comunicação** 🔒 | Plataforma EAD/LMS com certificados em PDF | Laravel 11, Blade, DomPDF, Stripe |
@@ -52,10 +52,10 @@ Hoje, me divido entre o desenvolvimento de software e a tecnologia educacional:
 | [**App Finanças**](https://github.com/LucasCastro100/app-financas) | Gestão financeira pessoal | Next.js, Recharts, shadcn/ui |
 | [**Base Next.js**](https://github.com/LucasCastro100/base-nextjs) | Template base moderno | Next.js, shadcn/ui |
 | [**Cola Componente**](https://github.com/LucasCastro100/cola-componente) | Referência de componentes | Next.js, Tailwind |
-| **register-students** 🔒 | Automação de cadastro de alunos com cartões em PDF | Python, Selenium, pandas |
+| [**register-students**](https://github.com/LucasCastro100/register-students) | Automação de cadastro de alunos com cartões em PDF | Python, Selenium, pandas |
 | **pyton-projects** 🔒 | Automações, análise de dados e web/desktop | Python, Streamlit, Pandas, Plotly |
 | **RC Studio** 🔒 | Site institucional de produção musical | WordPress, Elementor |
-| **LinkedIn Toolkit** 🔒 | Guias e checklists para otimizar o perfil | Markdown |
+| [**LinkedIn Toolkit**](https://github.com/LucasCastro100/linkedin) | Guias e checklists para otimizar o perfil | Markdown |
 
 > 🔒 = projeto listado, mas repositório privado (sem link público).
 
