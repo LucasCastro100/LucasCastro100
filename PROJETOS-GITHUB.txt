@@ -1,0 +1,183 @@
+================================================================================
+                    REPOSITÓRIOS NO GITHUB — LucasCastro100
+                 Nome | Link | Tecnologia | Breve descrição
+                    Atualizado em 07/10/2026
+================================================================================
+
+--------------------------------------------------------------------------------
+LARAVEL/  (cada projeto em seu próprio repositório)
+--------------------------------------------------------------------------------
+
+1) ideias_dev
+   Link:        https://github.com/LucasCastro100/ideias_dev
+   Tecnologia:  Laravel 12 | Livewire 3 | Laravel Jetstream | Tailwind CSS | Chart.js | DomPDF | SQLite
+   Descrição:   Plataforma multi-sistema Ideias.dev.br: um único projeto Laravel que
+                hospeda 23 sistemas de gestão independentes (TBR, Financeiro, Clientes,
+                Vagas, Escolar, Ordem de Serviço, Email Marketing, MMN, Advocacia,
+                Corridas, Rede Social, Nuvem, PDV, Restaurante, Pizzaria, Suporte, CMS,
+                Arquivos, Clínicas, ERP, Hospedagem, Marketplace, Loja Virtual), cada um
+                com rotas, tabelas e telas próprias, além de vitrine pública (/projetos).
+
+2) calendario-unificado
+   Link:        https://github.com/LucasCastro100/calendario-unificado
+   Tecnologia:  Laravel 12 (API + Sanctum + Socialite) | Next.js 16 | React | FullCalendar | TanStack Query | Tailwind CSS
+   Descrição:   Aplicação de calendário unificado: backend Laravel expõe a API e faz a
+                integração com calendários externos (OAuth via Socialite), e o frontend
+                Next.js exibe a visão unificada com FullCalendar (dia, semana, mês,
+                lista) e atualização de dados via TanStack Query.
+
+3) clubset
+   Link:        https://github.com/LucasCastro100/clubset
+   Tecnologia:  Laravel 13 | React 19 | Inertia.js 3 | TypeScript | Tailwind CSS 4 | shadcn/ui | Stripe (Cashier) | Laravel Fortify (2FA + Passkeys)
+   Descrição:   Clubset — marketplace de permuta para o mercado audiovisual. Anúncios de
+                equipamento com moderação, serviços de produção, matches para troca
+                direta/venda/permuta por créditos, livro-razão de créditos, disputas,
+                permutas com compartilhamento público, diagnóstico e assinaturas
+                trial/pro/max via Stripe com bloqueio automático por inadimplência.
+
+4) neurocomunicacaobrasil
+   Link:        https://github.com/LucasCastro100/neurocomunicacaobrasil
+   Tecnologia:  Laravel 11 | Blade | Alpine.js | Tailwind CSS 3 | DomPDF | Intervention Image | Stripe | Vite
+   Descrição:   Neuro Comunicação Brasil — plataforma EAD/LMS: cursos com módulos e
+                aulas, matrículas, materiais, comentários e dúvidas, avaliações com
+                notas, certificados em PDF, checkout por Stripe e um Teste
+                Representacional público com resultado compartilhável. Painéis separados
+                para administrador, professor e aluno.
+
+5) rcstudio
+   Link:        https://github.com/LucasCastro100/rcstudio
+   Tecnologia:  WordPress 7.1 | Hello Elementor 3.4.9 | Elementor | LiteSpeed Cache | PHP | MySQL
+   Descrição:   Site institucional da RC Studio (rcstudio.com.br), estúdio de produção
+                musical. Páginas montadas no Elementor, cache LiteSpeed, plugins de
+                otimização de imagens, snippets e log de atividade. Hospedagem
+                Hostinger. Inclui a pasta public_html completa como snapshot do site.
+
+6) laravel  (monorepo histórico — mantido apenas com o passado)
+   Link:        https://github.com/LucasCastro100/laravel
+   Tecnologia:  Laravel | WordPress | PHP
+   Descrição:   Repositório antigo que reunia todos os projetos de Laravel/ num só
+                lugar (IdeiasDev, calendario-unificado, clubset, neurocomunicacao,
+                rcstudio). Mantido como histórico; a partir de 07/10/2026 cada projeto
+                passou a ter repositório próprio.
+
+--------------------------------------------------------------------------------
+NODEJS/  (cada projeto em seu próprio repositório)
+--------------------------------------------------------------------------------
+
+7) control-school-back
+   Link:        https://github.com/LucasCastro100/control-school-back
+   Tecnologia:  Laravel 13 | PHP 8.3+ | Laravel Sanctum | SQLite | PHPUnit 12 | PHPStan
+   Descrição:   API/backend do Control School, sistema de gestão escolar. Autenticação
+                por token (Sanctum), CRUD de alunos, turmas, professores e financeiro,
+                roles por perfil e console de comandos artisan.
+
+8) control-school-front
+   Link:        https://github.com/LucasCastro100/control-school-front
+   Tecnologia:  Next.js 16 | React 19 | TypeScript | Tailwind CSS | Framer Motion | GSAP | React Three Fiber | Playwright | ExcelJS
+   Descrição:   Frontend do Control School: interface de gestão escolar com proxy
+                /api/backend/* para a API Laravel, automações Playwright, exportação
+                para Excel e animações/3D com GSAP e React Three Fiber.
+
+9) odontopro
+   Link:        https://github.com/LucasCastro100/odontopro
+   Tecnologia:  Next.js 16 | Prisma 7 | PostgreSQL | Auth.js (next-auth 5) | React 19 | pnpm
+   Descrição:   OdontoPro — plataforma SaaS para clínicas odontológicas: cadastro de
+                profissionais e serviços, agenda e painel administrativo, com
+                autenticação via Auth.js e persistência em PostgreSQL via Prisma.
+
+10) app-financas
+    Link:        https://github.com/LucasCastro100/app-financas
+    Tecnologia:  Next.js | React | TypeScript | shadcn/ui | Radix UI | Recharts | React Hook Form + Zod
+    Descrição:   Sistema de gerenciamento financeiro pessoal: lançamentos de receitas e
+                despesas, categorias e gráficos de evolução (Recharts), com formulários
+                validados por Zod.
+
+11) base-nextjs
+    Link:        https://github.com/LucasCastro100/base-nextjs
+    Tecnologia:  Next.js | React | TypeScript | shadcn/ui | Tailwind CSS | Zod | Recharts
+    Descrição:   Template base para novos projetos Next.js, com stack moderna já
+                configurada (shadcn/ui, Tailwind, validação com Zod, gráficos Recharts e
+                formulários) — ponto de partida padrão dos projetos frontend.
+
+12) style-hub
+    Link:        https://github.com/LucasCastro100/style-hub
+    Tecnologia:  Next.js 16 | React | Framer Motion | Tailwind CSS | shadcn/ui
+    Descrição:   Hub de bibliotecas UI com sandbox de componentes: reúne e documenta
+                componentes reutilizáveis com demonstrações interativas.
+
+13) cola-componente
+    Link:        https://github.com/LucasCastro100/cola-componente
+    Tecnologia:  Next.js | Tailwind CSS | shadcn/ui | Markdown
+    Descrição:   Coleção de referência para montar componentes: 10+ guias em Markdown
+                cobrindo botões, cards, modais/CRUD, formulários, listas, avatares,
+                dropdowns e providers — usados como "cola" para copiar e colar
+                implementações prontas.
+
+14) linkedin
+    Link:        https://github.com/LucasCastro100/linkedin
+    Tecnologia:  Markdown
+    Descrição:   Guias e checklists para o LinkedIn: perfil otimizado, títulos para
+                freelancers (PT e EN), checklist de recrutadores e passo a passo para
+                abordagem de vagas.
+
+15) register_students  (NodeJs)
+    Local:       NodeJs/register_students  —  ainda SEM repositório no GitHub
+    Tecnologia:  Node.js | JavaScript
+    Descrição:   Apoio ao cadastro de alunos em Node.js (geração de cartões de login).
+
+--------------------------------------------------------------------------------
+PYTON/  (Python)
+--------------------------------------------------------------------------------
+
+16) pyton
+    Link:        https://github.com/LucasCastro100/pyton
+    Tecnologia:  Python 3 | Tkinter | MySQL | MongoDB (PyMongo) | Matplotlib | Requests
+    Descrição:   Fundamentos e exercícios de Python: introdução, POO, coleções,
+                manipulação de arquivos (CSV), banco de dados, decorators, módulos e PIP,
+                automações e análise de dados. Didático, organizado por tópico.
+
+17) pyton-projects
+    Link:        https://github.com/LucasCastro100/pyton-projects
+    Tecnologia:  Python 3 | Pandas | Streamlit | Plotly | Selenium | Requests | FPDF | python-dotenv | PySide6
+    Descrição:   Projetos e scripts em Python: automações com Selenium (ICM/EBD),
+                dashboards Streamlit (análise de livros e de peças automotivas com
+                PCA/CAP/BAP), geração de recibos em PDF (FPDF), consumo de APIs (Requests),
+                scripts de caminhos/arquivos, experimentos com Flask e GUI PySide6.
+
+18) register-students  (Python)
+    Link:        https://github.com/LucasCastro100/register-students
+    Tecnologia:  Python 3 | Selenium | pandas | python-dotenv | ThreadPoolExecutor | Chrome
+    Descrição:   Automação de cadastro de alunos: lê uma planilha Excel com os dados,
+                abre vários navegadores Chrome em paralelo, preenche o formulário de
+                cadastro e gera cartões de login em PDF, um por aluno. Protegido por
+                lock para evitar conflito de escrita no Excel.
+
+--------------------------------------------------------------------------------
+OUTROS REPOSITÓRIOS DA CONTA
+--------------------------------------------------------------------------------
+
+19) LucasCastro100
+    Link:        https://github.com/LucasCastro100/LucasCastro100
+    Tecnologia:  Markdown
+    Descrição:   Repositório de perfil do GitHub — README exibido na página inicial do
+                perfil.
+
+20) control-school
+    Link:        https://github.com/LucasCastro100/control-school
+    Tecnologia:  TypeScript
+    Descrição:   Repositório agregador original do Control School (controle de escolas);
+                hoje dividido entre control-school-back e control-school-front.
+
+21) all-agend
+    Link:        https://github.com/LucasCastro100/all-agend
+    Tecnologia:  TypeScript
+    Descrição:   Projeto pessoal focado em agendamento.
+
+22) java_script
+    Link:        https://github.com/LucasCastro100/java_script
+    Tecnologia:  TypeScript / JavaScript
+    Descrição:   Exercícios e estudos de JavaScript.
+
+================================================================================
+  ATUALIZADO EM: 07/10/2026 — 16 repositórios sincronizados nesta sessão
+================================================================================
