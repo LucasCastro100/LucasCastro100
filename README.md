@@ -41,19 +41,21 @@ Em paralelo, sou desenvolvedor freelancer e mantenho produtos próprios.
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**Ideias.dev.br**](https://github.com/LucasCastro100/ideias_dev) | Plataforma multi-sistema com 22 sistemas de gestão | Laravel 12, Livewire, Jetstream |
-| [**Clubset**](https://github.com/LucasCastro100/clubset) | Marketplace de permuta para o mercado audiovisual | Laravel 13, React, Inertia, Stripe |
-| [**Calendário Unificado**](https://github.com/LucasCastro100/calendario-unificado) | Calendário unificado com integração de agendas externas | Laravel 12, Next.js, FullCalendar |
+| **Clubset** 🔒 | Marketplace de permuta para o mercado audiovisual | Laravel 13, React, Inertia, Stripe |
+| **Calendário Unificado** 🔒 | Calendário unificado com integração de agendas externas | Laravel 12, Next.js, FullCalendar |
 | [**Control School**](https://github.com/LucasCastro100/control-school-back) | Gestão multi-escolar (turmas, alunos, financeiro) | Laravel 13, Next.js 16, Sanctum |
 | [**OdontoPro**](https://github.com/LucasCastro100/odontopro) | SaaS para clínicas odontológicas | Next.js 16, Prisma, PostgreSQL |
-| [**Neuro Comunicação**](https://github.com/LucasCastro100/neurocomunicacaobrasil) | Plataforma EAD/LMS com certificados em PDF | Laravel 11, Blade, DomPDF, Stripe |
+| **Neuro Comunicação** 🔒 | Plataforma EAD/LMS com certificados em PDF | Laravel 11, Blade, DomPDF, Stripe |
 | [**Style Hub**](https://github.com/LucasCastro100/style-hub) | Hub de bibliotecas UI + sandbox de componentes | Next.js 16, Framer Motion |
 | [**App Finanças**](https://github.com/LucasCastro100/app-financas) | Gestão financeira pessoal | Next.js, Recharts, shadcn/ui |
 | [**Base Next.js**](https://github.com/LucasCastro100/base-nextjs) | Template base moderno | Next.js, shadcn/ui |
 | [**Cola Componente**](https://github.com/LucasCastro100/cola-componente) | Referência de componentes | Next.js, Tailwind |
-| [**register-students**](https://github.com/LucasCastro100/register-students) | Automação de cadastro de alunos com cartões em PDF | Python, Selenium, pandas |
-| [**pyton-projects**](https://github.com/LucasCastro100/pyton-projects) | Automações, análise de dados e web/desktop | Python, Streamlit, Pandas, Plotly |
-| [**RC Studio**](https://github.com/LucasCastro100/rcstudio) | Site institucional de produção musical | WordPress, Elementor |
-| [**LinkedIn Toolkit**](https://github.com/LucasCastro100/linkedin) | Guias e checklists para otimizar o perfil | Markdown |
+| **register-students** 🔒 | Automação de cadastro de alunos com cartões em PDF | Python, Selenium, pandas |
+| **pyton-projects** 🔒 | Automações, análise de dados e web/desktop | Python, Streamlit, Pandas, Plotly |
+| **RC Studio** 🔒 | Site institucional de produção musical | WordPress, Elementor |
+| **LinkedIn Toolkit** 🔒 | Guias e checklists para otimizar o perfil | Markdown |
+
+> 🔒 = projeto listado, mas repositório privado (sem link público).
 
 > 📄 Lista completa de repositórios com link, tecnologia e descrição: **[PROJETOS-GITHUB.txt](https://github.com/LucasCastro100/LucasCastro100/blob/main/PROJETOS-GITHUB.txt)**
 
