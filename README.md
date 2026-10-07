@@ -14,20 +14,36 @@ Há 8 anos atuando no desenvolvimento web. Comecei criando sites institucionais 
 
 Atualmente trabalho com tecnologia educacional, atuando com professores na área de pensamento computacional para crianças de 3 a 16 anos. Paralelamente, atuo como desenvolvedor freelancer e mantenho projetos próprios.
 
+<details>
+<summary><b>📊 Em números</b> (clique para ver)</summary>
+
+| Métrica | Valor |
+|---|---|
+| **Código próprio** | ~213.000 linhas em 2.125 arquivos |
+| **Repositórios públicos** | 14 |
+| **Maior projeto** | 22 sistemas de gestão numa única plataforma Laravel/Livewire |
+| **Banco de dados (Ideias.dev.br)** | 75 tabelas · 90 rotas · 86 componentes Livewire · ~39.500 linhas |
+| **Marketplace Clubset** | 68 rotas · 35 tabelas · 38 páginas React · 2FA + Passkeys + Stripe |
+| **Control School** | 19 endpoints de API · 119 arquivos TypeScript no front |
+| **Plataforma EAD (Neuro)** | 113 rotas · 26 tabelas · 3 painéis (admin/professor/aluno) |
+| **Python** | 96 scripts de automação · 7 subprojetos |
+
+</details>
+
 ---
 
 ### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**Ideias.dev.br**](https://github.com/LucasCastro100/ideias_dev) | Plataforma multi-sistema com 23 sistemas de gestão | Laravel 12, Livewire, Jetstream |
+| [**Ideias.dev.br**](https://github.com/LucasCastro100/ideias_dev) | Plataforma multi-sistema com 22 sistemas de gestão | Laravel 12, Livewire, Jetstream |
 | [**Clubset**](https://github.com/LucasCastro100/clubset) | Marketplace de permuta para o mercado audiovisual | Laravel 13, React, Inertia, Stripe |
 | [**Calendário Unificado**](https://github.com/LucasCastro100/calendario-unificado) | Calendário unificado com integração de agendas externas | Laravel 12, Next.js, FullCalendar |
 | [**Control School**](https://github.com/LucasCastro100/control-school-back) | Gestão multi-escolar (turmas, alunos, financeiro) | Laravel 13, Next.js 16, Sanctum |
 | [**OdontoPro**](https://github.com/LucasCastro100/odontopro) | SaaS para clínicas odontológicas | Next.js 16, Prisma, PostgreSQL |
 | [**Neuro Comunicação**](https://github.com/LucasCastro100/neurocomunicacaobrasil) | Plataforma EAD/LMS com certificados em PDF | Laravel 11, Blade, DomPDF, Stripe |
 | [**Style Hub**](https://github.com/LucasCastro100/style-hub) | Hub de bibliotecas UI + sandbox de componentes | Next.js 16, Framer Motion |
-| [**App Finanças**](https://github.com/LucasCastro100/app-financas) | Gestão financeira pessoal | Next.js, Recharts, Zustand |
+| [**App Finanças**](https://github.com/LucasCastro100/app-financas) | Gestão financeira pessoal | Next.js, Recharts, shadcn/ui |
 | [**Base Next.js**](https://github.com/LucasCastro100/base-nextjs) | Template base moderno | Next.js, shadcn/ui |
 | [**Cola Componente**](https://github.com/LucasCastro100/cola-componente) | Referência de componentes | Next.js, Tailwind |
 | [**register-students**](https://github.com/LucasCastro100/register-students) | Automação de cadastro de alunos com cartões em PDF | Python, Selenium, pandas |
