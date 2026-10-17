@@ -1,6 +1,6 @@
-### 👋 Oi, eu sou o Lucas Oliveira
+### Lucas Henrique de Castro Oliveira
 
-Full-Stack Developer | Automation | Educational Technology
+Engenheiro de Software Full Stack · Automação · Tecnologia Educacional
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-38993a202/)
 [![Site](https://img.shields.io/badge/-Site-2f2f2f?style=flat-square&logo=google-chrome&logoColor=white)](https://ideias.dev.br/)
@@ -10,17 +10,24 @@ Full-Stack Developer | Automation | Educational Technology
 
 ### Sobre Mim
 
-Há **8+ anos** desenvolvendo para a web: evoluí da criação de landing pages em HTML, CSS e PHP para a construção de arquiteturas modernas e escaláveis.
+**Engenheiro de Software Full Stack & Orientador em Tecnologia**, com mais de 8 anos transformando tecnologia em soluções reais — unindo a engenharia de software de ponta à educação tecnológica e inovação.
+
+Minha trajetória une o desenvolvimento de software robusto à vivência prática com cultura maker e prototipagem. Com 6 anos de atuação em educação tecnológica (robótica, ecossistemas LEGO, Arduino e fabricação digital), desenvolvi uma forte habilidade de traduzir problemas complexos em arquiteturas simples, escaláveis e usáveis.
+
+No desenvolvimento de software, atuo de ponta a ponta: do design do banco de dados e APIs ao frontend responsivo, automações de processos e infraestrutura.
+
+**O que construo e utilizo no dia a dia**
+
+| Área | Tecnologias |
+|---|---|
+| Frontend | React, Next.js, TypeScript, Tailwind CSS |
+| Backend & APIs | Node.js, NestJS, Laravel, Python, REST APIs |
+| Infra & Automação | Docker, Nginx, CI/CD, n8n, automação de fluxos |
+| Maker & Hardware | Prototipagem, Arduino, Corte a Laser, Impressão 3D |
+
+Aberto a conexões, novos projetos e trocas sobre engenharia de software, automação e educação tecnológica.
 
 No caminho já são **18 repositórios** no GitHub (**15 públicos**), **~213 mil linhas** de código próprias e **2.125 arquivos** de projeto.
-
-Hoje, me divido entre o desenvolvimento de software e a tecnologia educacional:
-
-**Full-Stack Engineering:** No dia a dia, construo aplicações end-to-end com Next.js, TypeScript e Node.js. Em ecossistemas mais robustos, atuo com Laravel no backend e uso Python para automações e raspagem de dados.
-
-**Tecnologia Educacional:** Oriento professores no ensino de pensamento computacional para crianças e jovens (3 a 16 anos). Essa vivência refinou minha capacidade de desmistificar conceitos complexos e criar código limpo e intuitivo.
-
-**Freelancer:** Disponível para projetos web, integrações de APIs e automações sob medida.
 
 <details>
 <summary><b>📊 Em números</b> (clique para ver)</summary>
