@@ -1,18 +1,27 @@
-### Lucas Henrique de Castro Oliveira
+<div align="center">
 
-Engenheiro de Software Full Stack · Automação · Tecnologia Educacional
+# Lucas Henrique de Castro Oliveira
+
+**Engenheiro de Software Full Stack · Automação · Tecnologia Educacional**
+
+Uberaba, MG · Brasil
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-38993a202/)
-[![Site](https://img.shields.io/badge/-Site-2f2f2f?style=flat-square&logo=google-chrome&logoColor=white)](https://ideias.dev.br/)
+[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-3B82F6?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-lucas-oliveira-eight.vercel.app/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasCastro100)
+[![E-mail](https://img.shields.io/badge/-E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucascastro121295@gmail.com)
+
+</div>
 
 ---
 
-### Sobre Mim
+## Sobre
 
-**Engenheiro de Software Full Stack & Orientador em Tecnologia**, com mais de 8 anos transformando tecnologia em soluções reais — unindo a engenharia de software de ponta à educação tecnológica e inovação.
+Engenheiro de Software full stack que transforma problemas de negócio em produtos digitais — do banco de dados e das APIs ao frontend, com automações e infraestrutura.
 
-Minha trajetória une o desenvolvimento de software robusto à vivência prática com cultura maker e prototipagem. Com 6 anos de atuação em educação tecnológica (robótica, ecossistemas LEGO, Arduino e fabricação digital), desenvolvi uma forte habilidade de traduzir problemas complexos em arquiteturas simples, escaláveis e usáveis.
+Engenheiro de Software Full Stack com atuação em produtos digitais, automações e tecnologia educacional — do design do banco e das APIs ao frontend e à infraestrutura.
+
+Minha trajetória une engenharia de software e cultura maker: robótica, ecossistemas LEGO, Arduino e fabricação digital. Essa mistura me ajuda a traduzir problemas complexos em arquiteturas simples, escaláveis e usáveis.
 
 No desenvolvimento de software, atuo de ponta a ponta: do design do banco de dados e APIs ao frontend responsivo, automações de processos e infraestrutura.
 
@@ -27,65 +36,41 @@ No desenvolvimento de software, atuo de ponta a ponta: do design do banco de dad
 
 Aberto a conexões, novos projetos e trocas sobre engenharia de software, automação e educação tecnológica.
 
-No caminho já são **18 repositórios** no GitHub (**15 públicos**), **~213 mil linhas** de código próprias e **2.125 arquivos** de projeto.
-
-<details>
-<summary><b>📊 Em números</b> (clique para ver)</summary>
-
-**Geral**
-
-| Métrica | Valor |
-|---|---|
-| Repositórios no GitHub | **18** (15 públicos + 3 privados) |
-| Código próprio | **~213.000** linhas |
-| Arquivos de projeto | **2.125** |
-| Tempo de atuação | **8+ anos** |
-
-**Por projeto**
-
-| Projeto | Métricas |
-|---|---|
-| **Ideias.dev.br** | 22 sistemas de gestão · 75 tabelas · 90 rotas · 86 componentes Livewire · 66 models · ~39.500 linhas |
-| **Clubset** | 68 rotas · 35 tabelas · 48 migrations · 38 páginas React · 2FA + Passkeys + Stripe · ~74.700 linhas |
-| **Neuro Comunicação** | 113 rotas · 26 tabelas · 3 painéis · ~22.000 linhas |
-| **Control School** | 19 endpoints de API · 15 models · 119 arquivos TypeScript/TSX |
-| **OdontoPro** | 9 models Prisma · 7 páginas · ~20.500 linhas |
-| **Calendário Unificado** | 15 rotas de API · 11 tabelas |
-| **Python (total)** | 96 scripts · ~2.870 linhas · 7 subprojetos |
-
-</details>
-
 ---
 
-### 🚀 Projetos em Destaque
+## Projetos em destaque
 
-| Projeto | Descrição | Stack |
+| Projeto | O que faz | Stack |
 |---|---|---|
-| [**Ideias.dev.br**](https://github.com/LucasCastro100/ideias_dev) | Plataforma multi-sistema com 22 sistemas de gestão | Laravel 12, Livewire, Jetstream |
-| **Clubset** 🔒 | Marketplace de permuta para o mercado audiovisual | Laravel 13, React, Inertia, Stripe |
-| [**Calendário Unificado**](https://github.com/LucasCastro100/calendario-unificado) | Calendário unificado com integração de agendas externas | Laravel 12, Next.js, FullCalendar |
-| [**Control School**](https://github.com/LucasCastro100/control-school-back) | Gestão multi-escolar (turmas, alunos, financeiro) | Laravel 13, Next.js 16, Sanctum |
-| [**OdontoPro**](https://github.com/LucasCastro100/odontopro) | SaaS para clínicas odontológicas | Next.js 16, Prisma, PostgreSQL |
-| **Neuro Comunicação** 🔒 | Plataforma EAD/LMS com certificados em PDF | Laravel 11, Blade, DomPDF, Stripe |
-| [**Style Hub**](https://github.com/LucasCastro100/style-hub) | Hub de bibliotecas UI + sandbox de componentes | Next.js 16, Framer Motion |
-| [**App Finanças**](https://github.com/LucasCastro100/app-financas) | Gestão financeira pessoal | Next.js, Recharts, shadcn/ui |
-| [**Base Next.js**](https://github.com/LucasCastro100/base-nextjs) | Template base moderno | Next.js, shadcn/ui |
-| [**Cola Componente**](https://github.com/LucasCastro100/cola-componente) | Referência de componentes | Next.js, Tailwind |
-| [**register-students**](https://github.com/LucasCastro100/register-students) | Automação de cadastro de alunos com cartões em PDF | Python, Selenium, pandas |
-| **RC Studio** 🔒 | Site institucional de produção musical | WordPress, Elementor |
-| [**LinkedIn Toolkit**](https://github.com/LucasCastro100/linkedin) | Guias e checklists para otimizar o perfil | Markdown |
+| [Ideias.dev.br](https://github.com/LucasCastro100/ideias_dev) | Plataforma multi-sistema com módulos de gestão isolados num único codebase | Laravel 12, Livewire 3, Jetstream |
+| Clubset 🔒 | Marketplace de permuta e troca de serviços para videomakers | Laravel 13, React, Inertia, Stripe |
+| Control School 🔒 | Gestão escolar com automação de cadastro e web scraping | Next.js 16, Laravel 13, Sanctum, Playwright |
+| [OdontoPro](https://github.com/LucasCastro100/odontopro) | SaaS para clínicas odontológicas (em desenvolvimento) | Next.js 16, Prisma, PostgreSQL, Auth.js |
+| Neuro Comunicação Brasil 🔒 | Plataforma EAD de PNL com certificados em PDF | Laravel 11, Blade, DomPDF, Stripe |
+| [Calendário Unificado](https://github.com/LucasCastro100/calendario-unificado) | Agendas externas unificadas em uma só visão | Laravel 12, Next.js, FullCalendar |
+| [Prospectar](https://github.com/LucasCastro100/prospectar) | Prospecção local de clientes no Google Maps | Next.js, Prisma, Docker, Playwright |
+| [Hospital Blog](https://github.com/LucasCastro100/hospital-blog) | Portal hospitalar com editor de blocos | NestJS, Prisma, Next.js, dnd-kit |
+| ICM 🔒 | Gestão de membros, presença e mensagens | FastAPI, PostgreSQL, Next.js |
+| [Style Hub](https://github.com/LucasCastro100/style-hub) | Hub de bibliotecas UI com sandbox de componentes | Next.js, Framer Motion, shadcn/ui |
+| [App Finanças](https://github.com/LucasCastro100/app-financas) | Gestão financeira pessoal com gráficos | Next.js, Recharts, Zod |
+| [register-students](https://github.com/LucasCastro100/register-students) | Automação de cadastro com cartões de login em PDF | Python, Selenium, pandas |
+| DataFi 🔒 | App de gestão de marketing para agências | Next.js, Recharts, Auth.js |
+| RC Studio 🔒 | Site institucional de estúdio de produção musical | WordPress, Elementor, PHP |
 
-> 🔒 = projeto listado, mas repositório privado (sem link público).
+> 🔒 = repositório privado, sem link público de código.
 
-> 📄 Lista completa de repositórios com link, tecnologia e descrição: **[PROJETOS-GITHUB.txt](https://github.com/LucasCastro100/LucasCastro100/blob/main/PROJETOS-GITHUB.txt)**
+Estudos e referências — Base Next.js, Cola Componente, pyton, CI/CD Example e Estudos JavaScript — ficam em uma marcação separada no [portfólio](https://portfolio-lucas-oliveira-eight.vercel.app/).
+
+Lista completa com link, tecnologias e descrição: **[PROJETOS-GITHUB.txt](https://github.com/LucasCastro100/LucasCastro100/blob/main/PROJETOS-GITHUB.txt)**
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 **Automation**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-000?style=flat-square&logo=n8n&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
@@ -102,17 +87,22 @@ No caminho já são **18 repositórios** no GitHub (**15 públicos**), **~213 mi
 
 ---
 
-### 📊 GitHub Stats
+## Formação
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LucasCastro100&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCastro100&layout=compact&langs_count=8&theme=tokyonight)
+**UNIUBE — Universidade de Uberaba** · Sistema de Informação
 
 ---
 
-### 🤝 Vamos construir algo junto
+## Contato
 
-Sempre aberto a colaborações e novas ideias. Vamos conectar!
+- **E-mail:** [lucascastro121295@gmail.com](mailto:lucascastro121295@gmail.com)
+- **LinkedIn:** [lucas-oliveira-38993a202](https://www.linkedin.com/in/lucas-oliveira-38993a202/)
+- **WhatsApp:** [+55 (34) 99153-5839](https://wa.me/5534991535839)
+- **Portfólio:** [portfolio-lucas-oliveira-eight.vercel.app](https://portfolio-lucas-oliveira-eight.vercel.app/)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LucasCastro100&color=blueviolet&style=flat-square&label=visitantes" />
-</p>
+---
+
+## Atividade no GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=LucasCastro100&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCastro100&layout=compact&langs_count=8&theme=tokyonight)

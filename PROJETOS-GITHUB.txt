@@ -1,177 +1,146 @@
 ================================================================================
-                    REPOSITÓRIOS NO GITHUB — LucasCastro100
-                 Nome | Link | Tecnologia | Breve descrição
-                    Atualizado em 07/10/2026
+PROJETOS E REPOSITÓRIOS — LucasCastro100
 ================================================================================
 
---------------------------------------------------------------------------------
-LARAVEL/  (cada projeto em seu próprio repositório)
---------------------------------------------------------------------------------
-
-1) ideias_dev
-   Link:        https://github.com/LucasCastro100/ideias_dev
-   Tecnologia:  Laravel 12 | Livewire 3 | Laravel Jetstream | Tailwind CSS | Chart.js | DomPDF | SQLite
-   Descrição:   Plataforma multi-sistema Ideias.dev.br: um único projeto Laravel que
-                hospeda 22 sistemas de gestão independentes (TBR, Financeiro, Clientes,
-                Vagas, Escolar, Ordem de Serviço, Email Marketing, MMN, Advocacia,
-                Corridas, Rede Social, Nuvem, PDV, Restaurante, Pizzaria, Suporte, CMS,
-                Clínicas, ERP, Hospedagem, Marketplace, Loja Virtual), cada um com rotas,
-                tabelas e telas próprias, além de vitrine pública (/projetos).
-                Métricas reais: 75 tabelas | 90 rotas | 86 componentes Livewire |
-                66 models | ~39.500 linhas de código.
-
-2) calendario-unificado
-   Link:        https://github.com/LucasCastro100/calendario-unificado
-   Tecnologia:  Laravel 12 (API + Sanctum + Socialite) | Next.js 16 | React | FullCalendar | TanStack Query | Tailwind CSS
-   Descrição:   Aplicação de calendário unificado: backend Laravel expõe a API e faz a
-                integração com calendários externos (OAuth via Socialite), e o frontend
-                Next.js exibe a visão unificada com FullCalendar (dia, semana, mês,
-                lista) e atualização de dados via TanStack Query.
-
-3) clubset
-   Link:        https://github.com/LucasCastro100/clubset
-   Tecnologia:  Laravel 13 | React 19 | Inertia.js 3 | TypeScript | Tailwind CSS 4 | shadcn/ui | Stripe (Cashier) | Laravel Fortify (2FA + Passkeys)
-   Descrição:   Clubset — marketplace de permuta para o mercado audiovisual. Anúncios de
-                equipamento com moderação, serviços de produção, matches para troca
-                direta/venda/permuta por créditos, livro-razão de créditos, disputas,
-                permutas com compartilhamento público, diagnóstico e assinaturas
-                trial/pro/max via Stripe com bloqueio automático por inadimplência.
-
-4) neurocomunicacaobrasil
-   Link:        https://github.com/LucasCastro100/neurocomunicacaobrasil
-   Tecnologia:  Laravel 11 | Blade | Alpine.js | Tailwind CSS 3 | DomPDF | Intervention Image | Stripe | Vite
-   Descrição:   Neuro Comunicação Brasil — plataforma EAD/LMS: cursos com módulos e
-                aulas, matrículas, materiais, comentários e dúvidas, avaliações com
-                notas, certificados em PDF, checkout por Stripe e um Teste
-                Representacional público com resultado compartilhável. Painéis separados
-                para administrador, professor e aluno.
-
-5) rcstudio
-   Link:        https://github.com/LucasCastro100/rcstudio
-   Tecnologia:  WordPress 7.1 | Hello Elementor 3.4.9 | Elementor | LiteSpeed Cache | PHP | MySQL
-   Descrição:   Site institucional da RC Studio (rcstudio.com.br), estúdio de produção
-                musical. Páginas montadas no Elementor, cache LiteSpeed, plugins de
-                otimização de imagens, snippets e log de atividade. Hospedagem
-                Hostinger. Inclui a pasta public_html completa como snapshot do site.
-
-6) laravel  (monorepo histórico — mantido apenas com o passado)
-   Link:        https://github.com/LucasCastro100/laravel
-   Tecnologia:  Laravel | WordPress | PHP
-   Descrição:   Repositório antigo que reunia todos os projetos de Laravel/ num só
-                lugar (IdeiasDev, calendario-unificado, clubset, neurocomunicacao,
-                rcstudio). Mantido como histórico; a partir de 07/10/2026 cada projeto
-                passou a ter repositório próprio.
+Mesmo conteúdo do portfólio: https://portfolio-lucas-oliveira-eight.vercel.app/
 
 --------------------------------------------------------------------------------
-NODEJS/  (cada projeto em seu próprio repositório)
+PROJETOS
 --------------------------------------------------------------------------------
 
-7) control-school-back
-   Link:        https://github.com/LucasCastro100/control-school-back
-   Tecnologia:  Laravel 13 | PHP 8.3+ | Laravel Sanctum | SQLite | PHPUnit 12 | PHPStan
-   Descrição:   API/backend do Control School, sistema de gestão escolar. Autenticação
-                por token (Sanctum), CRUD de alunos, turmas, professores e financeiro,
-                roles por perfil e console de comandos artisan.
+Ideias.dev.br
+  Link:  https://github.com/LucasCastro100/ideias_dev
+  Site:  https://ideias.dev.br
+  Stack: Laravel 12, Livewire 3, Jetstream, Tailwind CSS, Chart.js, DomPDF, SQLite
+  O que faz: plataforma multi-sistema com módulos de gestão isolados num único
+  codebase, vitrine pública e painel de super admin.
 
-8) control-school-front
-   Link:        https://github.com/LucasCastro100/control-school-front
-   Tecnologia:  Next.js 16 | React 19 | TypeScript | Tailwind CSS | Framer Motion | GSAP | React Three Fiber | Playwright | ExcelJS
-   Descrição:   Frontend do Control School: interface de gestão escolar com proxy
-                /api/backend/* para a API Laravel, automações Playwright, exportação
-                para Excel e animações/3D com GSAP e React Three Fiber.
+Clubset (privado)
+  Stack: Laravel 13, React 19, Inertia.js, TypeScript, Stripe, Fortify
+  O que faz: marketplace de permuta e troca de serviços para videomakers, com
+  créditos, disputas, assinaturas, 2FA e Passkeys.
 
-9) odontopro
-   Link:        https://github.com/LucasCastro100/odontopro
-   Tecnologia:  Next.js 16 | Prisma 7 | PostgreSQL | Auth.js (next-auth 5) | React 19 | pnpm
-   Descrição:   OdontoPro — plataforma SaaS para clínicas odontológicas: cadastro de
-                profissionais e serviços, agenda e painel administrativo, com
-                autenticação via Auth.js e persistência em PostgreSQL via Prisma.
+Control School — Frontend (privado)
+  Stack: Next.js 16, React 19, TypeScript, Framer Motion, GSAP, React Three Fiber, Playwright
+  O que faz: painel de gestão escolar com proxy para a API Laravel, exportação
+  para Excel e automação de cadastro via web scraping.
 
-10) app-financas
-    Link:        https://github.com/LucasCastro100/app-financas
-    Tecnologia:  Next.js | React | TypeScript | shadcn/ui | Radix UI | Recharts | React Hook Form + Zod
-    Descrição:   Sistema de gerenciamento financeiro pessoal: lançamentos de receitas e
-                despesas, categorias e gráficos de evolução (Recharts), com formulários
-                validados por Zod.
+Control School — API (privado)
+  Stack: Laravel 13, Sanctum, PHP
+  O que faz: autenticação por token, papéis por perfil e endpoints de escolas,
+  turmas, alunos e horários.
 
-11) base-nextjs
-    Link:        https://github.com/LucasCastro100/base-nextjs
-    Tecnologia:  Next.js | React | TypeScript | shadcn/ui | Tailwind CSS | Zod | Recharts
-    Descrição:   Template base para novos projetos Next.js, com stack moderna já
-                configurada (shadcn/ui, Tailwind, validação com Zod, gráficos Recharts e
-                formulários) — ponto de partida padrão dos projetos frontend.
+Control School (primeira versão)
+  Link:  https://github.com/LucasCastro100/control-school
+  Stack: Next.js 16, React 19, TypeScript, Tailwind CSS 4
+  O que fiz: versão inicial do gerenciador de escolas, com persistência local.
 
-12) style-hub
-    Link:        https://github.com/LucasCastro100/style-hub
-    Tecnologia:  Next.js 16 | React | Framer Motion | Tailwind CSS | shadcn/ui
-    Descrição:   Hub de bibliotecas UI com sandbox de componentes: reúne e documenta
-                componentes reutilizáveis com demonstrações interativas.
+OdontoPro — em desenvolvimento
+  Link:  https://github.com/LucasCastro100/odontopro
+  Stack: Next.js 16, Prisma 7, PostgreSQL, Auth.js, TypeScript
+  O que faz: SaaS para clínicas odontológicas com agenda, serviços e painel
+  administrativo.
 
-13) cola-componente
-    Link:        https://github.com/LucasCastro100/cola-componente
-    Tecnologia:  Next.js | Tailwind CSS | shadcn/ui | Markdown
-    Descrição:   Coleção de referência para montar componentes: 10+ guias em Markdown
-                cobrindo botões, cards, modais/CRUD, formulários, listas, avatares,
-                dropdowns e providers — usados como "cola" para copiar e colar
-                implementações prontas.
+Neuro Comunicação Brasil (privado)
+  Stack: Laravel 11, Blade, Alpine.js, DomPDF, Stripe
+  O que faz: plataforma EAD de PNL com cursos, avaliações, certificados em PDF
+  e checkout por Stripe.
 
-14) linkedin
-    Link:        https://github.com/LucasCastro100/linkedin
-    Tecnologia:  Markdown
-    Descrição:   Guias e checklists para o LinkedIn: perfil otimizado, títulos para
-                freelancers (PT e EN), checklist de recrutadores e passo a passo para
-                abordagem de vagas.
+Calendário Unificado
+  Link:  https://github.com/LucasCastro100/calendario-unificado
+  Stack: Laravel 12, Sanctum, Socialite, Next.js 16, FullCalendar, TanStack Query
+  O que faz: unifica agendas externas numa visão única por dia, semana e mês.
 
-15) register_students  (NodeJs)
-    Local:       NodeJs/register_students  —  ainda SEM repositório no GitHub
-    Tecnologia:  Node.js | JavaScript
-    Descrição:   Apoio ao cadastro de alunos em Node.js (geração de cartões de login).
+register-students
+  Link:  https://github.com/LucasCastro100/register-students
+  Stack: Python 3, Selenium, pandas, ThreadPoolExecutor
+  O que faz: lê planilha, preenche cadastro em navegadores paralelos e gera
+  cartões de login em PDF.
+
+DataFi (privado)
+  Stack: Next.js, React, TypeScript, Auth.js, Recharts
+  O que faz: dashboards de campanhas, relatórios por cliente, alertas e
+  integração com WhatsApp para agências.
+
+Style Hub
+  Link:  https://github.com/LucasCastro100/style-hub
+  Stack: Next.js 16, Framer Motion, Tailwind CSS, shadcn/ui
+  O que faz: diretório de bibliotecas UI com sandbox e previews interativos.
+
+App Finanças
+  Link:  https://github.com/LucasCastro100/app-financas
+  Stack: Next.js, React, Zod, Recharts, shadcn/ui
+  O que faz: lançamentos, categorias e gráficos de evolução financeira.
+
+RC Studio (privado)
+  Site:  https://rcstudio.com.br
+  Stack: WordPress, Elementor, PHP, MySQL, LiteSpeed Cache
+  O que faz: site institucional de estúdio de produção musical.
+
+Prospectar
+  Link:  https://github.com/LucasCastro100/prospectar
+  Stack: Next.js 16, Prisma 7, SQLite, Docker, Playwright
+  O que faz: encontra negócios no Google Maps, separa quem não tem site e
+  organiza leads com mensagem de abordagem pelo WhatsApp.
+
+ICM — Painel e Automações (privado)
+  Stack: FastAPI, SQLModel, PostgreSQL, Next.js 15, Evolution API
+  O que faz: membros, presença, aniversariantes e mensagens diárias no WhatsApp.
+
+Hospital Blog
+  Link:  https://github.com/LucasCastro100/hospital-blog
+  Stack: NestJS 11, Prisma 6, PostgreSQL, Next.js 16, dnd-kit
+  O que faz: portal de conteúdo hospitalar com editor de blocos e painel
+  administrativo.
+
+Portfólio
+  Link:  https://github.com/LucasCastro100/portfolio-lucas
+  Site:  https://portfolio-lucas-oliveira-eight.vercel.app/
+  Stack: Next.js 16, React 19, TypeScript, Tailwind CSS 4, Framer Motion
+  O que faz: este portfólio, com projetos, stacks e cards com efeito 3D.
+
+LinkedIn Toolkit
+  Link:  https://github.com/LucasCastro100/linkedin
+  Stack: Markdown
+  O que faz: guias e checklists para otimizar perfil e abordar vagas.
+
+Perfil GitHub
+  Link:  https://github.com/LucasCastro100/LucasCastro100
+  Stack: Markdown
+  O que faz: README de apresentação do perfil.
+
+All Agend
+  Link:  https://github.com/LucasCastro100/all-agend
+  Stack: TypeScript, React, Next.js
+  O que faz: projeto de estudo de agendamento.
 
 --------------------------------------------------------------------------------
-PYTON/  (Python)
+MARCAÇÃO — ESTUDOS E REFERÊNCIAS
 --------------------------------------------------------------------------------
 
-16) pyton
-    Link:        https://github.com/LucasCastro100/pyton
-    Tecnologia:  Python 3 | Tkinter | MySQL | MongoDB (PyMongo) | Matplotlib | Requests
-    Descrição:   Fundamentos e exercícios de Python: introdução, POO, coleções,
-                manipulação de arquivos (CSV), banco de dados, decorators, módulos e PIP,
-                automações e análise de dados. Didático, organizado por tópico.
+Base Next.js
+  Link:  https://github.com/LucasCastro100/base-nextjs
+  Stack: Next.js, TypeScript, shadcn/ui, Tailwind CSS, Zod, Recharts
+  O que faz: template base para novos projetos frontend.
 
-17) register-students  (Python)
-    Link:        https://github.com/LucasCastro100/register-students
-    Tecnologia:  Python 3 | Selenium | pandas | python-dotenv | ThreadPoolExecutor | Chrome
-    Descrição:   Automação de cadastro de alunos: lê uma planilha Excel com os dados,
-                abre vários navegadores Chrome em paralelo, preenche o formulário de
-                cadastro e gera cartões de login em PDF, um por aluno. Protegido por
-                lock para evitar conflito de escrita no Excel.
+Cola Componente
+  Link:  https://github.com/LucasCastro100/cola-componente
+  Stack: Next.js, Tailwind CSS, shadcn/ui, Markdown
+  O que faz: guias de componentes prontos para copiar e colar.
 
---------------------------------------------------------------------------------
-OUTROS REPOSITÓRIOS DA CONTA
---------------------------------------------------------------------------------
+pyton
+  Link:  https://github.com/LucasCastro100/pyton
+  Stack: Python 3, Tkinter, MySQL, MongoDB, Matplotlib, Requests
+  O que faz: fundamentos de Python organizados por tópico.
 
-18) LucasCastro100
-    Link:        https://github.com/LucasCastro100/LucasCastro100
-    Tecnologia:  Markdown
-    Descrição:   Repositório de perfil do GitHub — README exibido na página inicial do
-                perfil.
+CI/CD Example
+  Link:  https://github.com/LucasCastro100/b7cicd-example
+  Stack: Express, TypeScript, GitHub Actions
+  O que faz: API usada para praticar pipeline de CI/CD.
 
-19) control-school
-    Link:        https://github.com/LucasCastro100/control-school
-    Tecnologia:  TypeScript
-    Descrição:   Repositório agregador original do Control School (controle de escolas);
-                hoje dividido entre control-school-back e control-school-front.
+Estudos JavaScript
+  Link:  https://github.com/LucasCastro100/java_script
+  Stack: JavaScript, Swiper, Zod, ECharts, Jest, Testing Library
+  O que faz: anotações e exemplos de bibliotecas frontend.
 
-20) all-agend
-    Link:        https://github.com/LucasCastro100/all-agend
-    Tecnologia:  TypeScript
-    Descrição:   Projeto pessoal focado em agendamento.
-
-21) java_script
-    Link:        https://github.com/LucasCastro100/java_script
-    Tecnologia:  TypeScript / JavaScript
-    Descrição:   Exercícios e estudos de JavaScript.
-
-================================================================================
-  ATUALIZADO EM: 07/10/2026 — 16 repositórios sincronizados nesta sessão
 ================================================================================
